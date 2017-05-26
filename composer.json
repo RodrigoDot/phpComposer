@@ -1,0 +1,12 @@
+{
+    "name": "rodrigo/composer",
+    "description": "estudo do composer php",
+    "authors": [
+        {
+            "name": "Rodrigo",
+            "email": "rodrigodot@outlook.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
